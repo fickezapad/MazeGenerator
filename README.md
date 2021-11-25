@@ -3,7 +3,7 @@
 ---
 
 
-Maze Generator built in JavaScript using the randomized depth first search algorithm and the recursive backtracker. 
+Maze Generator built in JavaScript using the randomized depth-first search algorithm and the recursive backtracker. 
 
 
 ## Description
