@@ -1,6 +1,6 @@
 # Maze Generator
 
----
+
 
 
 Maze Generator built in JavaScript using the randomized depth-first search algorithm and the recursive backtracker. 
@@ -8,13 +8,13 @@ Maze Generator built in JavaScript using the randomized depth-first search algor
 
 ## Description
 
----
+
 
 - You can generate randomized mazes depending on how big you want them by selecting the size of it and numbers of columns and rows. It also has a visual representation of how it's being created.
 
 ## How it works
 
----
+
 
 - Consider the space for a maze being a large grid of cells (like a large chess board), each cell starting with four walls.
 - Starting from the top left cell, the program then selects a random neighbouring cell that has not yet been visited. 
@@ -26,7 +26,7 @@ Maze Generator built in JavaScript using the randomized depth-first search algor
 
 # Maze generation visual
 
----
+
 
 ![Alt Text](https://media.giphy.com/media/CbNIOqRJaHQ1F4cSgS/giphy.gif)
 
